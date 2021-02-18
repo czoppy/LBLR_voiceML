@@ -116,6 +116,6 @@ def transcription_json_to_df(path):
 
 
 ### test the code
-# print(transcription_json_to_df('test_transcription_results.json'))
+print(transcription_json_to_df('test_transcription_results.json'))
 # print(classifier_json_to_df('test_clasification_results.json')['perform_duration_sec'])
 

@@ -1,0 +1,5131 @@
+{
+  "results": [
+    {
+      "Id": "tts_quality_1-1",
+      "CreationTime": "2021-02-12T11:02:07.66503Z",
+      "JobGroupName": "tts_quality_1",
+      "Payload": {
+        "Pages": [
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127282747,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127295837,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127299275,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127301281,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127305818,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127308215,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127320577,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127321908,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 2, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/examples_audio_files/GNPWI===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": true
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127295837,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127299275,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127301281,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127305817,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127308215,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127308419,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127318913,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127320576,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127321908,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127322235,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 2, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/examples_audio_files/GRPWK===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": true
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127308419,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127314648,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127317595,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127318913,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127322235,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127322404,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 2, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/examples_audio_files/GBPWC===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127314648,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127317595,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127322404,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127323135,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127341568,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127346751,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 2, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/examples_audio_files/GFPWE===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": true
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127323135,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127335202,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127338003,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127341567,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127346751,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127352529,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 2, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/examples_audio_files/GJPWG===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": true
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127335202,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127338003,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127352529,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127356722,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GFPWE===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": true
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127356722,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127363105,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GVPWC===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127363105,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127369796,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GBPWC===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127369796,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127382906,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GIZF6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": true
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127382906,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127392979,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GIYV6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127392979,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127407833,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127417764,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127431487,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GIZV6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127407833,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127417764,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127431487,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127446781,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127461591,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127462366,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/HBPWI===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127446781,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127455536,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127461219,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127461591,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127462366,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127466690,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GJPWG===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": true
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127455536,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127461219,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127466690,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127473778,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GI2F6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": true
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127473778,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127478964,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GIYF6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127478964,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127486783,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GI4F6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127486783,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127494765,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127504021,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127512307,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GI3F6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": true
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127494765,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127504021,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127512307,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127516896,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GE3F6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": true
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127516896,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127526032,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GE4V6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127526032,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127532322,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/HFPWK===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127532322,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127554366,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GEZV6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": true
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127554367,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127557282,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GZPWE===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": true
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127557282,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127578821,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GEZF6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127578821,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127590778,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GI4V6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": true
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127590778,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127605535,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127621190,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127622708,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GI3V6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127605535,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127621190,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127622708,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127624007,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GE2F6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127624007,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127629549,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GE4F6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127629549,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127639395,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GE2V6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127639395,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127644598,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GI2V6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127644598,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127650286,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/G5PWG===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": true
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127650286,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127656932,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127663054,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127673612,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127685682,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127687810,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127689139,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127693250,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GE3V6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127656932,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127663054,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127673612,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127678237,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127682238,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127685682,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127687810,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127689139,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127693250,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127696838,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GEYV6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127678237,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127682238,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127696838,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127698170,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GEYF6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127698170,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127720381,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GNPWI===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127720381,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127726954,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 2, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/jenny/expirament_audio_files/GRPWK===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": true
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          }
+        ]
+      },
+      "PagesCount": 35,
+      "Performer": "kvartanova@c.snap.com",
+      "Reviewers": null,
+      "PagesForRework": null,
+      "Reviewed": false,
+      "Type": "contentDescriptors"
+    },
+    {
+      "Id": "tts_quality_1-0",
+      "CreationTime": "2021-02-12T10:54:42.018143Z",
+      "JobGroupName": "tts_quality_1",
+      "Payload": {
+        "Pages": [
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126409329,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126433632,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126550135,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126550295,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126550470,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126550752,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126557470,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126654812,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126655113,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126655297,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126655496,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126661006,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126668053,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126678245,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126693207,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126695532,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126700961,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126709818,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 1, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/examples_audio_files/GNPWI===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": true
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126433632,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126441244,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126549978,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126550135,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126557470,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126562769,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126654639,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126654812,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126661006,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126668053,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126678246,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126679151,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126680164,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126693207,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126695532,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126700961,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126709818,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126711890,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 1, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/examples_audio_files/GFPWE===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": true
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126441244,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126461900,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126500013,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126503688,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126549808,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126549978,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126562769,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126570072,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126578318,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126580752,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126654470,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126654639,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126679151,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126680164,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126711890,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126717313,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126722553,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126727697,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 1, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/examples_audio_files/GJPWG===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126461900,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126486148,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126496986,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126500013,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126503688,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126505676,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126549659,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126549808,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126570072,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126578318,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126580752,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126589658,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126654310,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126654470,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126717313,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126720778,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126721896,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126722553,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126727697,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126754002,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 1, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/examples_audio_files/GRPWK===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126486148,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126496986,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126505676,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126506011,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126549503,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126549659,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126589658,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126591443,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126654089,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126654310,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126720778,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126721896,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126754002,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126755199,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "----Test---- Voice 1, Results for this batch will not be counted. Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/examples_audio_files/GBPWC===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126506011,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126516205,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126549334,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126549503,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126591443,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126594947,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126653898,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126654089,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126755199,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126763611,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GIZV6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126516206,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126525817,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126549150,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126549334,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126594947,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126597070,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126652270,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126653898,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126763611,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126764870,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GBPWC===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126525817,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126549150,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126597070,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126602043,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126650130,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126652270,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126764870,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126772127,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GE3V6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": true
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126602043,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126611214,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126649196,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126650130,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126772127,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126775571,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GI2V6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126611214,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126621222,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126633139,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126637746,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126648106,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126649196,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126775571,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126784266,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GJPWG===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126621222,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126633139,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126637746,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126648106,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126784266,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126793440,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GI3F6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126793440,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126802475,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GE2V6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126802475,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126812644,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GI3V6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126812644,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126824087,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GIYF6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126824087,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126839605,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126851749,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126855938,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GFPWE===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126839605,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126851749,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126855938,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126858114,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GNPWI===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126858114,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126881698,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GEZV6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126881698,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126892851,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/HFPWK===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126892851,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126904256,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GVPWC===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126904256,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126920154,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GI2F6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126920154,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126930952,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GEYF6YI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": true
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126930952,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126941521,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GE4F6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": true
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126941521,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126949014,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126959844,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126966563,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GIZF6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126949014,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126959844,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613126966563,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126973871,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GIYV6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126973871,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613126989560,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GZPWE===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613126989560,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127007101,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GE3F6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127007101,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127015966,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127211966,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127215577,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GI4V6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": true
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127015966,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127025528,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127211767,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127211966,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127215578,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127222620,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127231064,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127238588,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GE2F6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": true
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127025528,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127035062,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127047626,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127051799,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127211538,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127211767,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127222620,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127231064,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127238588,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127240980,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GRPWK===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127035062,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127047626,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127051800,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127056435,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127146067,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127149847,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127207699,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127211538,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127240980,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127244413,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127247011,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127249338,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GEZF6YY=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127056435,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127065536,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127138243,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127146067,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127149847,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127158697,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127207427,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127207698,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127244413,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127247011,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127249338,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127255943,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GE4V6ZI=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": true
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127065536,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127073901,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127127992,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127130044,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127130943,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127138243,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127158697,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127160412,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127207159,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127207427,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127255943,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127259608,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GI4F6ZA=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": true
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127073901,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127083201,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127107515,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127108997,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127113974,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127120796,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127123345,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127127992,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127130044,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127130943,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127160412,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127207159,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127259608,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127260321,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/HBPWI===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": true
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127083201,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127096341,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127105206,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127107515,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127108997,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127109228,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127111873,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127113974,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127120796,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127123345,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127260321,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127266972,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/GEYV6YQ=.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": false
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": true
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          },
+          {
+            "Skip": "",
+            "Comment": "",
+            "LabelingComment": "",
+            "time": [
+              {
+                "date": 1613127096341,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127105206,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127109228,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127111873,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127266973,
+                "type": "start_perform"
+              },
+              {
+                "date": 1613127279343,
+                "type": "end_perform"
+              },
+              {
+                "date": 1613127281096,
+                "type": "end_perform"
+              }
+            ],
+            "Validation": "",
+            "Question": "Voice 1, Give a ranking to the audio from 1 to 9",
+            "AudioURL": "gs://strannik/datasets/ASR/collected/tts_5_types/lj/expirament_audio_files/G5PWG===.wav",
+            "InfoImageURL": "",
+            "Descriptors": [
+              {
+                "Descriptor": "1 - Bad",
+                "Selected": false
+              },
+              {
+                "Descriptor": "2",
+                "Selected": false
+              },
+              {
+                "Descriptor": "3 - Poor",
+                "Selected": false
+              },
+              {
+                "Descriptor": "4",
+                "Selected": true
+              },
+              {
+                "Descriptor": "5 - Fair",
+                "Selected": false
+              },
+              {
+                "Descriptor": "6",
+                "Selected": false
+              },
+              {
+                "Descriptor": "7 - Good",
+                "Selected": false
+              },
+              {
+                "Descriptor": "8",
+                "Selected": false
+              },
+              {
+                "Descriptor": "9 - Excellent",
+                "Selected": false
+              }
+            ],
+            "MaxSelectable": 1
+          }
+        ]
+      },
+      "PagesCount": 35,
+      "Performer": "kvartanova@c.snap.com",
+      "Reviewers": null,
+      "PagesForRework": null,
+      "Reviewed": false,
+      "Type": "contentDescriptors"
+    }
+  ],
+  "cursor": "CoEBChkKDGNyZWF0aW9uVGltZRIJCN-O_bSX5O4CEmBqCnN-c25hcGxibHJyUgsSEmxibHItcHJvZC1MYWJlbEpvYiINdHRzX3F1YWxpdHlfMQwLEhhsYmxyLXByb2QtTGFiZWxKb2JSZXN1bHQiD3R0c19xdWFsaXR5XzEtMAwYACAB"
+}
